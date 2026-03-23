@@ -117,17 +117,6 @@ The recommendation engine is based on **user-based collaborative filtering**:
 
 ---
 
-## 📈 Future Improvements
-
-- Authentication with JWT  
-- Advanced recommendation (cosine similarity, machine learning)  
-- PostgreSQL database  
-- Docker support  
-- Cloud deployment  
-- Caching with Redis  
-
----
-
 ## 💡 Key Learnings
 
 - Backend API design  

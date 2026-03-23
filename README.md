@@ -31,14 +31,14 @@ The system is built following clean architecture principles, focusing on scalabi
 ---
 
 ## 🏗️ Architecture
+```
 app/
 ├── api/ # Routes (controllers)
 ├── models/ # Database models
 ├── schemas/ # Data validation
 ├── db/ # Database configuration
 └── main.py # Application entry point
-
-
+```
 ---
 
 ## ⚙️ Tech Stack
